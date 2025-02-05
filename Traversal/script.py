@@ -4,7 +4,6 @@ import numpy as np
 
 
 
-
 class Tree():
     def __init__(self,name):
         self.name=name
