@@ -58,7 +58,7 @@
           </mxCell>
         </object>
         <object label="performance, metrics evaluation" status="New" id="QGwA4jflYJvlayZgIJCA-1">
-          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#A0522D;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-1">
+          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=#b85450;fillStyle=solid;fillColor=#f8cecc;gradientColor=#ea6b66;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-1">
             <mxGeometry x="740" y="28" width="440" height="902" as="geometry" />
           </mxCell>
         </object>
@@ -73,7 +73,7 @@
           </mxCell>
         </object>
         <object label="skalierung" status="In progress" id="_5mSTuPxr-ZiKRkBDSY7-6">
-          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#006600;" parent="_5mSTuPxr-ZiKRkBDSY7-1" vertex="1">
+          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=#b85450;fillStyle=solid;fillColor=#f8cecc;gradientColor=#ea6b66;" parent="_5mSTuPxr-ZiKRkBDSY7-1" vertex="1">
             <mxGeometry x="1180" y="28" width="380" height="902" as="geometry" />
           </mxCell>
         </object>
@@ -93,7 +93,7 @@
           </mxCell>
         </object>
         <object label="Sicherheit unfortunately Ethinks" status="Completed" id="_5mSTuPxr-ZiKRkBDSY7-9">
-          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#1BA1E2;" parent="_5mSTuPxr-ZiKRkBDSY7-1" vertex="1">
+          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=#b85450;fillStyle=solid;fillColor=#f8cecc;gradientColor=#ea6b66;" parent="_5mSTuPxr-ZiKRkBDSY7-1" vertex="1">
             <mxGeometry x="1560" y="28" width="370" height="902" as="geometry" />
           </mxCell>
         </object>
